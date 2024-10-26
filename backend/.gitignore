@@ -1,0 +1,5 @@
+env
+./app/static
+./app/temp_resumes.zip
+__pycache__/
+    

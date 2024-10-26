@@ -1,0 +1,8 @@
+First change the mongodb url in config.py
+Run elastic search container in docker
+set the path of pytesseract n ressource/nlp_loader.py
+
+run backend server via uvicorn main:app --reload
+
+run stream lit with streamlit run main.py    
+
