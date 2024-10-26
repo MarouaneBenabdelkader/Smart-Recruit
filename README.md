@@ -4,8 +4,8 @@ Follow these steps to set up and run the project.
 
 ## Prerequisites
 
-- [Docker]((https://hub.docker.com/_/elasticsearch)) (for running the Elasticsearch container)
-- [MongoDB]((https://www.mongodb.com/cloud/atlas/register)) (if not using a Docker container)
+- [Docker](https://hub.docker.com/_/elasticsearch) (for running the Elasticsearch container)
+- [MongoDB](https://www.mongodb.com/cloud/atlas/register) (if not using a Docker container)
 - [Pytesseract](https://github.com/tesseract-ocr/tesseract) (for OCR functionality)
 
 ## Step 1: Configure MongoDB URL
