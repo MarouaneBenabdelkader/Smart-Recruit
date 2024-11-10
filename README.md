@@ -153,7 +153,6 @@ This command runs the server in development mode with auto-reloading enabled.
 
 
 
-```markdown
 ## Step 5: Run Streamlit Frontend
 
 Navigate to the frontend directory:
