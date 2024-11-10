@@ -131,9 +131,6 @@ pytesseract.pytesseract.tesseract_cmd = (r"path_to_your_tesseract_executable")
 
 Replace `path_to_your_tesseract_executable` with the actual path to the Tesseract executable on your system.
 
-Here's the markdown version of your text:
-
-```markdown
 ## Step 4: Run the Backend Server
 
 Navigate to the backend directory:
@@ -155,7 +152,6 @@ uvicorn main:app --reload
 This command runs the server in development mode with auto-reloading enabled.
 
 
-Here's your text formatted in markdown:
 
 ```markdown
 ## Step 5: Run Streamlit Frontend
