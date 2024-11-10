@@ -3,6 +3,7 @@
 
 ## Application Architecture Overview
 Below is an architecture diagram that illustrates the overall structure and interaction between the frontend, backend, and supporting services of the SmartRecruit application:
+
 ![image](https://github.com/user-attachments/assets/2d4c3636-acf1-4510-b920-35e163ae0e33)
 
 ### Explanation:
@@ -13,6 +14,7 @@ Below is an architecture diagram that illustrates the overall structure and inte
 - **Docker**: Manages the containerization of services like Elasticsearch to ensure a consistent and scalable environment.
 
 ## Backend Startup Process
+
 ![image](https://github.com/user-attachments/assets/3102e754-50f2-49fc-81a6-82620babf8c4)
 
  - **Matcher**: Loads patterns into spaCy's `PhraseMatcher` for extracting skills.
