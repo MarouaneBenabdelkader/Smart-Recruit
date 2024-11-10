@@ -1,3 +1,19 @@
+# Table of Contents
+- [Application Architecture Overview](#application-architecture-overview)
+- [Backend Startup Process](#backend-startup-process)
+- [Login Page](#login-page)
+- [Registration Page](#registration-page)
+- [Resume Ranker Page](#resume-ranker-page)
+- [Upload CV Page](#upload-cv-page)
+- [Explore Stored Resumes Page](#explore-stored-resumes-page)
+- [Data Visualization Page](#data-visualization-page)
+- [Project Setup and Usage Guide](#project-setup-and-usage-guide)
+  - [Prerequisites](#prerequisites)
+  - [Step 1: Configure MongoDB URL](#step-1-configure-mongodb-url)
+  - [Step 2: Run Elasticsearch Container in Docker](#step-2-run-elasticsearch-container-in-docker)
+  - [Step 3: Set Pytesseract Path](#step-3-set-pytesseract-path)
+  - [Step 4: Run the Backend Server](#step-4-run-the-backend-server)
+  - [Step 5: Run Streamlit Frontend](#step-5-run-streamlit-frontend)
 
 # Application Architecture Overview
 
